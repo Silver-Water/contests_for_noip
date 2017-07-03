@@ -8,4 +8,4 @@
   \# |  A  |  B  |  C  |  D  |  E  |  F  |  G  
 ---|---|---|---|---|---|---|---
 | contest14 | Y | Y | Y | A | W | × | ×
-| contest15 | Y | Y | A |W | A |×|×
+| contest15 | Y | Y | A |A | A |×|×
