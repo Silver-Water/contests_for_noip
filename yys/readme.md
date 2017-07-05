@@ -7,5 +7,6 @@
 
   \# |  A  |  B  |  C  |  D  |  E  |  F  |  G  
 ---|---|---|---|---|---|---|---
-| contest14 | Y | Y | Y | A | W | × | ×
+| contest14 | Y | Y | Y | A | A | × | ×
 | contest15 | Y | Y | A |A | A |×|×
+| xjoi749 | Y | Y | Y | Y | × | × | ×
