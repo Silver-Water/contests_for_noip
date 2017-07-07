@@ -2,11 +2,12 @@
 > * Y : solved in the contest
 > * A : solved after contest
 > * W : solving
-> * ×:no question
+> * X:no question
 
 
   \# |  A  |  B  |  C  |  D  |  E  |  F  |  G  
 ---|---|---|---|---|---|---|---
-| contest14 | Y | Y | Y | A | A | × | ×
-| contest15 | Y | Y | A |A | A |×|×
-| xjoi749 | Y | Y | Y | Y | × | × | ×
+| contest14 | Y | Y | Y | A | A | X | X
+| contest15 | Y | Y | A |A | A |X|X
+| xjoi1 | Y | Y | Y | Y | X | X | X
+| xjoi2|Y|Y|A|X|X|X|X
